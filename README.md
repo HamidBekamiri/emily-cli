@@ -36,9 +36,9 @@ The Emily CLI is available on Windows, Linux and Mac OS. <a href="https://github
 <details open>
 <summary><a href="https://github.com/amboltio/emily-cli/wiki/Tutorials">Tutorials</a></summary>
 
-* [Face Mask Detector](https://github.com/amboltio/emily-cli/tree/main/tutorials/face-mask-detector): Detect if a person is wearing a face mask or not 😷
-* [Sentiment Analysis](https://github.com/amboltio/emily-cli/tree/main/tutorials/sentiment-analysis): Classify reviews as negative 👎 or positive 👍  
-* [House Price Prediction](https://github.com/amboltio/emily-cli/tree/main/tutorials/house-price-prediction): predict house prices with a Linear Regression Model 📈 
+* [Face Mask Detector](https://github.com/amboltio/emily-cli/tree/Release-v0.2.7/tutorials/face-mask-detector): Detect if a person is wearing a face mask or not 😷
+* [Sentiment Analysis](https://github.com/amboltio/emily-cli/tree/Release-v0.2.7/tutorials/sentiment-analysis): Classify reviews as negative 👎 or positive 👍  
+* [House Price Prediction](https://github.com/amboltio/emily-cli/tree/Release-v0.2.7/tutorials/house-price-prediction): predict house prices with a Linear Regression Model 📈 
 </details>
 
 ## License
